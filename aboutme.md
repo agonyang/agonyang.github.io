@@ -5,22 +5,21 @@ layout: page
     <h1>YangTianFu</h1>
     <div>
         <span>
-            <img src="img/phone-solid.svg" width="18px">
+            <img src="/img/phone-solid.svg" width="18px">
             18250757203
         </span>
         ·
         <span>
-            <img src="img/envelope-solid.svg" width="18px">
+            <img src="/img/envelope-solid.svg" width="18px">
             1125258926@qq.com
         </span>
         ·
         <span>
-            <img src="img/github-brands.svg" width="18px">
+            <img src="/img/github-brands.svg" width="18px">
             <a href="https://github.com/agonyang">aagonyang</a>
         </span>
-        ·
+        &
         <span>
-            <img src="assets/rss-solid.svg" width="18px">
             <a href="https://agonyang.github.io">My Blog</a>
         </span>
     </div>
