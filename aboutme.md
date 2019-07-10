@@ -1,7 +1,5 @@
 ---
 layout: page
-title: 关于我
-subtitle: Why you'd want to go on a date with me
 ---
 <center>
     <h1>YangTianFu</h1>
